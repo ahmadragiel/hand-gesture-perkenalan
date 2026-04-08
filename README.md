@@ -23,7 +23,7 @@ Project computer vision berbasis **gesture tangan** untuk memperkenalkan diri se
 ---
 
 ## 🤟 Daftar Gesture
-
+ini adalah contoh, Setiap kata bisa diganti sesuai keinginan
 | Gesture (Thumb, Index, Middle, Ring, Pinky) | Arti |
 |---|---|
 | ✊ Semua jari tertutup `(0,0,0,0,0)` | *"kelass!"* |
@@ -52,7 +52,7 @@ Project computer vision berbasis **gesture tangan** untuk memperkenalkan diri se
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/username/hand-gesture-perkenalan.git
+git clone https://github.com/ahmadragiel/hand-gesture-perkenalan.git
 cd hand-gesture-perkenalan
 ```
 
@@ -105,8 +105,7 @@ hand-gesture-perkenalan/
 
 ## 👤 Author
 
-**Abdu Nizam Al Latief**  
-Project tugas perkenalan berbasis computer vision dengan gesture tangan.
+**Ahmad Ragiel Zaini**  
 
 ---
 
